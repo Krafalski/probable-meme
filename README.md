@@ -1,6 +1,5 @@
 # probable-meme
 
-<<<<<<< HEAD
 This Master Branch shows node_modules. This is bad. Check out the other branch to see node modules gone
 
 
@@ -18,6 +17,3 @@ In **.gitignore**
 
 
 You should no longer see node_modules on github, but you should still see them locally and be able to develop your projected locally.
-=======
-This Master Branch shows node_modules. This is bad. Check out the 
->>>>>>> 64191860de309452de838a33cde72630068b9425
